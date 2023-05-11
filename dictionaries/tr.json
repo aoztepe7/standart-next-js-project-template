@@ -1,0 +1,40 @@
+{
+  "homePage": {
+    "title": "Hilson Wood Ana Sayfa!",
+    "description": "Ahşap Ev & Mobilya Merkezi"
+  },
+  "houseList": {
+    "title": "Ev Listesi",
+    "description": "Ahşap / Minik Evler"
+  },
+  "furnitureList": {
+    "title": "Mobilya Listesi",
+    "description": "Yüksek Kalite Ahşap Mobilyalar"
+  },
+  "houseDetail": {
+    "firstHouse": {
+      "title": "İlk ev başlık",
+      "description": "İlk ev açıklama"
+    }
+  },
+  "furnitureDetail": {
+    "first-furniture": {
+      "name": "İlk Mobilya",
+      "metaTitle": "İlk Mobilya Meta Başlık",
+      "metaDescription": "İlk Mobilya Meta Açıklaması",
+      "metaKeyword-1": "İlk Mobilya Meta Keyword 1",
+      "metaKeyword-2": "İlk Mobilya Meta Keyword 2",
+      "content": "İlk Mobilya İçerik",
+      "directUrl": "/mobilyalar/first-furniture"
+    },
+    "second-furniture": {
+      "name": "İkinci Mobilya",
+      "metaTitle": "İkinci Mobilya Meta Başlık",
+      "metaDescription": "İkinci Mobilya Meta Açıklaması",
+      "metaKeyword-1": "İkinci Mobilya Meta Keyword 1",
+      "metaKeyword-2": "İkinci Mobilya Meta Keyword 2",
+      "content": "İkinci Mobilya İçerik",
+      "directUrl": "/mobilyalar/second-furniture"
+    }
+  }
+}

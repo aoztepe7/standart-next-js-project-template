@@ -1,0 +1,40 @@
+{
+  "homePage": {
+    "title": "Hilson Wood Home Page !",
+    "description": "Wooden House and Furniture Center"
+  },
+  "houseList": {
+    "title": "House List",
+    "description": "Wooden / Tiny Houses"
+  },
+  "furnitureList": {
+    "title": "Furniture List",
+    "description": "High Quality Furnitures"
+  },
+  "houseDetail": {
+    "first-house": {
+      "title": "First House Title",
+      "description": "First House Description"
+    }
+  },
+  "furnitureDetail": {
+    "first-furniture": {
+      "name": "First Furniture",
+      "metaTitle": "Fist Furniture Meta Title",
+      "metaDescription": "First Furniture Meta Description",
+      "metaKeyword-1": "First Furniture Meta Keyword 1",
+      "metaKeyword-2": "First Furniture Meta Keyword 2",
+      "content": "First Furniture Content",
+      "directUrl": "/furnitures/first-furniture"
+    },
+    "second-furniture": {
+      "name": "Second Furniture",
+      "metaTitle": "Second Furniture Meta Title",
+      "metaDescription": "Second Furniture Meta Description",
+      "metaKeyword-1": "Second Furniture Meta Keyword 1",
+      "metaKeyword-2": "Second Furniture Meta Keyword 2",
+      "content": "Second Furniture Content",
+      "directUrl": "/furnitures/second-furniture"
+    }
+  }
+}
